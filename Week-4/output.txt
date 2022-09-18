@@ -1,0 +1,26 @@
+ 
+ int 	 It is a keyword 
+ main 	 It is an identifier. 
+ ( 	 It is an Opening Paranthesis. 
+ ) 	 It is an Closing Paranthesis.  
+ { 	 It is an Opening Brace.      
+ if 	 It is a keyword 
+ ( 	 It is an Opening Paranthesis. 
+ 10 	 It is a digit 
+ <= 	 It is a Relational operator Lessthan or Equal to.  
+ 0 	 It is a digit
+ ) 	 It is an Closing Paranthesis.  
+ { 	 It is an Opening Brace.         
+ displayTrue 	 It is an identifier. 
+ ( 	 It is an Opening Paranthesis. 
+ ) 	 It is an Closing Paranthesis. 
+ ; It is End of the line.     
+ } 	 It is an Closing Brace.       
+ else 	 It is a keyword 
+ { 	 It is an Opening Brace.         
+ displayFalse 	 It is an identifier. 
+ ( 	 It is an Opening Paranthesis. 
+ ) 	 It is an Closing Paranthesis. 
+ ; It is End of the line.     
+ } 	 It is an Closing Brace. 
+ } 	 It is an Closing Brace. 
